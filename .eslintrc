@@ -1,0 +1,7 @@
+---
+  extends: eslint-config-airbnb
+  rules:
+    max-len:
+      - 2
+      - 110
+      - 2
